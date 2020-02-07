@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MessagePack" Version="1.7.3.4" />
+    <PackageReference Include="MessagePackAnalyzer" Version="1.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exceptions" />
+  </ItemGroup>
+</Project>

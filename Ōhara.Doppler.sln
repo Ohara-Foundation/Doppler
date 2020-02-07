@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Common", "Ōhara.Doppler.Common\Ōhara.Doppler.Common.csproj", "{2AC18DE3-37D4-49FC-8CBE-C105C01BAEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Framwork", "Ōhara.Doppler.Framwork\Ōhara.Doppler.Framwork.csproj", "{AE843706-C0E4-4B79-BC4D-B3594CA969EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.API", "Ōhara.Doppler.API\Ōhara.Doppler.API.csproj", "{2F21F519-EAD4-42C3-9D3F-4F1134B24E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Domain", "Ōhara.Doppler.Domain\Ōhara.Doppler.Domain.csproj", "{FD75ECB2-764F-4CDD-891E-00201E6B3E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Persistence", "Ōhara.Doppler.Persistence\Ōhara.Doppler.Persistence.csproj", "{35695E50-55C0-4D08-B3EB-8EAF0194EB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Service", "Ōhara.Doppler.Service\Ōhara.Doppler.Service.csproj", "{7E3CBDCF-0EF0-4607-B36E-39C71BC89318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC18DE3-37D4-49FC-8CBE-C105C01BAEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC18DE3-37D4-49FC-8CBE-C105C01BAEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC18DE3-37D4-49FC-8CBE-C105C01BAEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC18DE3-37D4-49FC-8CBE-C105C01BAEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE843706-C0E4-4B79-BC4D-B3594CA969EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE843706-C0E4-4B79-BC4D-B3594CA969EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE843706-C0E4-4B79-BC4D-B3594CA969EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE843706-C0E4-4B79-BC4D-B3594CA969EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F21F519-EAD4-42C3-9D3F-4F1134B24E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F21F519-EAD4-42C3-9D3F-4F1134B24E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F21F519-EAD4-42C3-9D3F-4F1134B24E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F21F519-EAD4-42C3-9D3F-4F1134B24E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD75ECB2-764F-4CDD-891E-00201E6B3E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD75ECB2-764F-4CDD-891E-00201E6B3E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD75ECB2-764F-4CDD-891E-00201E6B3E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD75ECB2-764F-4CDD-891E-00201E6B3E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35695E50-55C0-4D08-B3EB-8EAF0194EB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35695E50-55C0-4D08-B3EB-8EAF0194EB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35695E50-55C0-4D08-B3EB-8EAF0194EB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35695E50-55C0-4D08-B3EB-8EAF0194EB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3CBDCF-0EF0-4607-B36E-39C71BC89318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3CBDCF-0EF0-4607-B36E-39C71BC89318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3CBDCF-0EF0-4607-B36E-39C71BC89318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3CBDCF-0EF0-4607-B36E-39C71BC89318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
