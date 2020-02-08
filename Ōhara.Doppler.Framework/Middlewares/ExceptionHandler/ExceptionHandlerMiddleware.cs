@@ -3,9 +3,9 @@ using System.Net;
 using System.Threading.Tasks;
 using MessagePack;
 using Microsoft.AspNetCore.Http;
-using Ōhara.Doppler.Framwork.Middlewares.ExceptionHandler.DTOs;
+using Ōhara.Doppler.Framework.Middlewares.ExceptionHandler.DTOs;
 
-namespace Ōhara.Doppler.Framwork.Middlewares.ExceptionHandler
+namespace Ōhara.Doppler.Framework.Middlewares.ExceptionHandler
 {
     public class ExceptionHandlerMiddleware
     {
@@ -43,7 +43,7 @@ namespace Ōhara.Doppler.Framwork.Middlewares.ExceptionHandler
 
             context.Response.ContentType = "application/json";
             context.Response.StatusCode = (int) code;
-            return context.Response.WriteAsync(MessagePackSerializer.ToJson(result));
+            return context.Response.WriteAsync(MessagePackSerializer.ConvertToJson(result));
         }
     }
 }

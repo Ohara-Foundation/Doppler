@@ -1,6 +1,6 @@
 ﻿using MessagePack;
 
-namespace Ōhara.Doppler.Framwork.Middlewares.ExceptionHandler.DTOs
+namespace Ōhara.Doppler.Framework.Middlewares.ExceptionHandler.DTOs
 {
     [MessagePackObject]
     public class RequestErrorRequestOutputDto

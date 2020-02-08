@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Common", "Ōhara.Doppler.Common\Ōhara.Doppler.Common.csproj", "{2AC18DE3-37D4-49FC-8CBE-C105C01BAEAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Framwork", "Ōhara.Doppler.Framwork\Ōhara.Doppler.Framwork.csproj", "{AE843706-C0E4-4B79-BC4D-B3594CA969EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.Framework", "Ōhara.Doppler.Framework\Ōhara.Doppler.Framework.csproj", "{AE843706-C0E4-4B79-BC4D-B3594CA969EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ōhara.Doppler.API", "Ōhara.Doppler.API\Ōhara.Doppler.API.csproj", "{2F21F519-EAD4-42C3-9D3F-4F1134B24E6B}"
 EndProject

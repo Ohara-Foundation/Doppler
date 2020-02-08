@@ -1,7 +1,7 @@
 ﻿using System.Security.Claims;
 using System.Security.Principal;
 
-namespace Ōhara.Doppler.Framwork.Helpers
+namespace Ōhara.Doppler.Framework.Helpers
 {
     public static class ClaimsHelper
     {
